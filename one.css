@@ -1,0 +1,93 @@
+body {
+    background-color: #35845d;
+}
+
+header {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px; 
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(31, 31, 31);
+    padding-right: 5px;
+    padding-right: 5px;
+    
+}
+
+.navbar {
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+.navbar a {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: sticky; 
+}
+
+.navbar :hover {
+    color: black; 
+}
+
+.one{
+    text-align: center;
+    color: black;
+}
+p{
+    font-size: 15px;
+}
+.blogone {
+    font-family: 'Nunito', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:black;
+    margin-bottom: 2%;
+    margin-left: 20%;
+    margin-right:20%;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.486);
+}
+
+h2 {
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: center;
+    
+}
+
+.one a{
+     color: white;
+     text-decoration: none;
+}
+
+
+.endnav{
+    text-align: center;
+    margin-top: 90%;
+}
+.endnav a{
+    text-decoration: none;
+    background-color: rgb(142, 197, 171);
+    text-align: center;
+    color: white;
+    border-radius:7%;
+    padding: 5px 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.endnav :hover{
+    background-color: white;
+    color: black;
+}
+p2 {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    position: sticky;
+}
