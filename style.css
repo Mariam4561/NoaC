@@ -1,8 +1,11 @@
 body {
     background-color: #35845d;
     min-height: 100%;
+    
 }
-
+webkit-scrollbar{
+    display: none;
+}
 header {
     font-family: 'Roboto Mono', monospace;
     font-size: 60px; 
@@ -10,7 +13,6 @@ header {
     text-align: center;
     border-bottom: 2px solid;
     border-color: rgb(31, 31, 31);
-    
 }
 
 .navbar {
@@ -52,6 +54,13 @@ header {
     padding-right: 20%;
     padding-bottom: 20px;
 }
+.four{
+        text-align: square;
+        color: white;
+        padding-left: 20%;
+        padding-right: 20%;
+        padding-bottom: 20px;
+}
 p{
     color: rgb(231, 231, 231);
 }
@@ -78,6 +87,11 @@ h2 {
     text-decoration: none;
 }
 .three a{ 
+    color: white;
+    text-decoration: none;
+}
+
+.four a{
     color: white;
     text-decoration: none;
 }
